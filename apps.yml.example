@@ -1,0 +1,9 @@
+your-app-1:
+  name: app1
+  description: "My first awesome native Heroku app"
+  host_path: /Users/USERNAME/Code/my-app-1
+your-app-2:
+  name: app2
+  description: "My second more awesome native Heroku app"
+  host_path: /Users/USERNAME/Code/my-app-2
+
