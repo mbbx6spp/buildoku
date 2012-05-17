@@ -9,10 +9,8 @@ Heroku Builder Vagrant box that I prepared.
 
 ## Where to obtain Heroku Builder Vagrant Box image? ##
 
-Download from my public DropBox area. It is "public" in the sense that it
-doesn't require a password, but I have not publicized it outside of
-Salesforce.com/Assistly:
-http://dl.dropbox.com/u/43329068/heroku-builder.box
+DM me on Twitter to find out the URL if interested in using this (but note
+buildpacks should probably be used now).
 
 ## What next? ##
 
