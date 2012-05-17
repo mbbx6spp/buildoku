@@ -1,8 +1,8 @@
 # Heroku Builder #
 
-This private Gist shows how to build any type of native app to run on
+This Git repo shows how to build any type of native app to run on
 Heroku's current Cedar stack (as long as their server version remains at
-Ubuntu 10.04). As of 10/21/2011 Heroku still uses Ubuntu 10.04.
+Ubuntu 10.04). As of 05/17/2012 Heroku still uses Ubuntu 10.04.
 
 To start out clone this Gist's git repository locally. Now download the
 Heroku Builder Vagrant box that I prepared.
@@ -44,7 +44,4 @@ by executing: `vagrant ssh builder`
 
 ## How to contact me? ##
 
-* Email me at salesforce: spotter@salesforce.com
-* Email me on my personal account: me@susanpotter.net
-* Find me on GUS Chatter (Susan Potter, LTMS @ Assistly)
 * Find me on Twitter: @SusanPotter
